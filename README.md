@@ -1,4 +1,4 @@
-## bugs.elenox.net
+## BugsTracker
 
 Ce projet destiné a [Elenox](https://elenox.net), a pour but de permettre a des non développeur la création de Ticket ainsi que la possibilité de les suivres.
 
