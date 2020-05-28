@@ -12,3 +12,4 @@ yarn-error.log
 server_1
 .gitlab-ci.yml
 Envoy.blade.php
+/.idea/
